@@ -13,7 +13,7 @@
     "email": "malfait.robin@gmail.com"
   },
   "engines": {
-    "node": ">=13"
+    "node": ">=12"
   },
   "license": "MIT",
   "homepage": "https://github.com/RobinMalfait/lazy-collections",
